@@ -2,6 +2,7 @@ import React from 'react';
 import bgImage from '../assets/15.jpg';
 import logo from '../assets/logo1.png';
 import Hero from './Hero';
+import Social from './Social';
 
 const Header = () => {
     return (
@@ -19,7 +20,7 @@ const Header = () => {
 
             </nav>
         </div>
-        <Hero/>
+        
        </div>
         
     );
