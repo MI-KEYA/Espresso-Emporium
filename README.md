@@ -1,12 +1,43 @@
-# React + Vite
+# Espresso Emporium ☕️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Espresso Emporium**, a sleek coffee store web app where users can browse, order, and customize their perfect cup of coffee!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Browse a variety of coffee options with detailed descriptions.
+- Customize your coffee order (size, milk type, sugar level, extras, etc.).
+- Add customized coffees to your cart and place orders.
+- User-friendly interface with smooth ordering experience.
+- Responsive design for seamless use on desktop and mobile.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Technologies Used
+
+- React.js (Functional Components & Hooks)
+- CSS / Tailwind CSS (or your chosen styling framework)
+- State management with React Context or useState
+- (Optional) Any backend or API details if used
+
+---
+
+## Live Demo
+
+*(Add your live demo URL here if available)*
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed on your machine.
+
+### Installation
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/your-username/espresso-emporium.git
